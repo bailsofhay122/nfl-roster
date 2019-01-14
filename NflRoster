@@ -1,3 +1,14 @@
+######################################################################  RAVENS
+#Position, Name, Age, Rookie Year, Pot, FIQ, Dur, Attr1, Attr2, Attr3, Contract Money, Contract Years
+#QB Pass Strength, Accuracy, and Evasion 
+#RB Run Power, Speed, Evasion
+#WR Catching, Speed, Evasion
+#OL Strength, Run Block, Pass Block
+#K Kick Strength, Kick Accuracy, Clumsiness
+#S Coverage, Speed, Tackling
+#CB Coverage, Speed, Tackling
+#DL Strength, Run Stop, Pass Rush
+#LB Tackling, Run Stop, Pass Coverage
 Baltimore Raven, BAL
 OL,Bradley Bozeman,24,2018,64,60,82,80,74,72,0.6,4
 OL,Hroniss Grasu,27,2015,64,74,83,78,72,69,0.8,1
